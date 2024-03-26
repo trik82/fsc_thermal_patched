@@ -8,18 +8,18 @@ The default thermal cooling mechanism on Sony flagships isn't very efficient. Th
 
 ## Main advantages
 - Improved overall performance
-- Prevent aggressive early  thermal throttling
+- Prevent aggressive early thermal throttling
 - Maintain a consistent performance for extended periods of time
 - Prolonged camera usage & video recording 
 - Suitable for daily usage & gaming
 
 ## Compatibility
 ### Android Version(s)
-- <img src="https://img.shields.io/badge/Android-5.0+-GREEN.svg?style=flat-square">
+- Android 5 and up
 - Any ROM
 
 ### Device(s)
-This Mod is intended for the devices listed below. _(All variants are supported : single & dual SIM , Gobal & Japnese models)_
+This Mod is intended for the devices listed below. _(All variants are supported : single & dual SIM , Global & Japanese models)_
 ```
 Snapdragon 845
 - Xperia XZ3
@@ -47,7 +47,8 @@ Snapdragon 810
 
 ## Changelog
 ### v1.5 26.03.2024*
-- Unity template update 4.0 (Magisk 19 support)
+- Fixed a bug that prevents module to install on XZ1 Compact
+- Small changes in installation text
 
 ### v1.4 14.04.2019*
 - Unity template update 4.0 (Magisk 19 support)
