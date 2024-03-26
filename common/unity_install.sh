@@ -1,4 +1,4 @@
-  device_check=`grep_prop ro.product.device`
+  device_check=`grep_prop ro.product.system.device`
   API=`grep_prop ro.build.version.sdk`
   
 if [ $API -ge "26" ] ;then
@@ -116,7 +116,7 @@ fi
   ui_print "   Use at your own risk"
   ui_print "   I am not responsible"
   ui_print "   For any damage that could happen"
-  ui_print "   Please do some research"
+  ui_print "   Please read README on github"
   ui_print "   To know how this mod works"
   ui_print " "
 
