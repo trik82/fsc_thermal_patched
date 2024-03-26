@@ -3,11 +3,6 @@
  <strong>faster, smarter, cooler</strong></div>
 </p>
 
-<p align="center">
-</a> <img src="https://img.shields.io/badge/Version-1.4-lightgrey.svg?style=flat-square"></a> <img src="https://img.shields.io/badge/Updated-April%2014%2C%202019-brightgreen.svg?style=flat-square"></a> <a href="https://forum.xda-developers.com/crossdevice-dev/sony/z3-z4-z5-fsc-improve-performance-t3673785"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg?style=flat-square"></a> <a href="https://t.me/FSC_XDA"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?style=flat-square"></a>
-</p>
-
-
 ## How it works
 The default thermal cooling mechanism on Sony flagships isn't very efficient. This Mod basically starts throttling the frequencies gradually at certain optimal temperatures allowing the device to cool-down faster while maintaning a good performance. Taking as example the <code>Snapdragon 810</code> flagship series that are known for high <code>idle</code> temperatures and overheating, while resolving overheating issues, a signficant <code>25%</code> of performance is gained at the same time. All of the included modified <code>thermal-engine</code> files are based on the stock ones pulled from their correspending device's latest <code>firmware</code>, for devices that share the same <code>SoC</code> platform the base files are taken from the most recent device if they utilize the same temperature <code>sensors</code>.
 
@@ -51,6 +46,9 @@ Snapdragon 810
 - This module uses Unity template that needs either [Magisk](https://github.com/topjohnwu/Magisk/releases) otherwise a system installation is performed
 
 ## Changelog
+### v1.5 26.03.2024*
+- Unity template update 4.0 (Magisk 19 support)
+
 ### v1.4 14.04.2019*
 - Unity template update 4.0 (Magisk 19 support)
 
