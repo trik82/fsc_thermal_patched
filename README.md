@@ -46,11 +46,11 @@ Snapdragon 810
 - This module uses Unity template that needs either [Magisk](https://github.com/topjohnwu/Magisk/releases) otherwise a system installation is performed
 
 ## Changelog
-### v1.5 26.03.2024*
+### v1.5 (26.03.2024)
 - Fixed a bug that prevents module to install on XZ1 Compact
 - Small changes in installation text
 
-### v1.4 14.04.2019*
+### v1.4 (14.04.2019)
 - Unity template update 4.0 (Magisk 19 support)
 
 ### v1.3 (11.03.2019)
